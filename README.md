@@ -32,3 +32,16 @@ This project analyzes e-commerce product performance for beauty and cosmetics li
 - How much revenue could be increased by focusing on high-profit items?
 ## DASHBOARD INTERACTION
 - <a href="https://github.com/Kanika144/Beauty-Commerce-Insights-Nykaa-Sales-Analytics-Dashboard/blob/main/Nykaa%20Sales%20Analytics%20Screenshot.PNG">Nykaa Sales Analytics Screenshot.PNG</a>
+## PROJECT PROCESS
+###Data Collection
+- Collected Nykaa product dataset with category, brand, price, discount, and sales details.
+### Data Cleaning
+- Removed duplicates, fixed missing values, corrected data types, removed currency/percentage symbols, and standardized date format.
+### Data Transformation
+- Created new columns like Discounted Price, Revenue Estimate, Month, and Quarter for better analysis.
+### Power BI Modeling
+- Imported data, created relationships (if needed), and built DAX measures for KPIs (Revenue, Sales, Rating, Discount).
+### Dashboard Visualization
+- Designed branded & interactive charts for revenue, brand/category performance, trends, and ratings.
+### Insights & Conclusion
+- Generated business insights to help improve product visibility, pricing, and marketing strategy.
