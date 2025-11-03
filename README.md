@@ -75,7 +75,7 @@ This project analyzes e-commerce product performance for beauty and cosmetics li
 - Some categories show high sales but low profit → margin issue
 - Product profitability must be optimized
 
-## FINAL CONCLUSION
+## CONLUSION
 This Power BI analysis reveals that Nykaa is a fast-growing beauty e-commerce leader, especially in skincare and top brands like L’Oreal. However, the company must improve overall ratings and strategically use discounts to maintain customer satisfaction and profit levels. By focusing on:
   * Enhancing product quality
   * Promoting high-profit categories
