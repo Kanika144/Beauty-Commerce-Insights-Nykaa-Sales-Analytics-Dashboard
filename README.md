@@ -53,3 +53,31 @@ This project analyzes e-commerce product performance for beauty and cosmetics li
 ## DASHBOARD
 <img width="908" height="507" alt="Nykaa Sales Analytics Screenshot" src="https://github.com/user-attachments/assets/837cec11-7116-4ab4-b566-f2115404667b" />
 
+## PROJECT INSIGHTS (Nykaa Beauty Commerce Analysis)
+### Skincare is the Top Revenue Driver
+- Skincare contributes 552M revenue — the highest among all categories
+- Indicates customers prioritize skincare product purchases
+### L’Oreal Leads Brand Contribution
+- Highest revenue among all brands (0.46bn)
+- Strong brand presence and demand
+### Discount Strategy Drives Higher Sales
+- Products with 10–25% discount show improved sales volume
+- Smart promotional campaigns can boost conversions
+### Customer Satisfaction Needs Improvement
+- Average rating is 2.97 (below 3)
+- Suggests quality & experience improvement required
+### Demand Shows Seasonal Trend
+- Revenue peaks in certain months → festive season boosts sales
+- Q3 dip indicates off-season → opportunity for marketing push
+### Some Products Sell Well Despite Low Ratings
+- These products should be reviewed and improved to retain customers
+### Profit Contribution Varies by Category
+- Some categories show high sales but low profit → margin issue
+- Product profitability must be optimized
+
+##FINAL CONCLUSION
+This Power BI analysis reveals that Nykaa is a fast-growing beauty e-commerce leader, especially in skincare and top brands like L’Oreal. However, the company must improve overall ratings and strategically use discounts to maintain customer satisfaction and profit levels. By focusing on:
+  * Enhancing product quality
+  * Promoting high-profit categories
+  * Running discounts during low-demand seasons
+  * Improving customer feedback response
