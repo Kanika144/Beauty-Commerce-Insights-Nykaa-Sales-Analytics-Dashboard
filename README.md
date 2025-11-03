@@ -33,7 +33,7 @@ This project analyzes e-commerce product performance for beauty and cosmetics li
 ## DASHBOARD INTERACTION
 - <a href="https://github.com/Kanika144/Beauty-Commerce-Insights-Nykaa-Sales-Analytics-Dashboard/blob/main/Nykaa%20Sales%20Analytics%20Screenshot.PNG">Nykaa Sales Analytics Screenshot.PNG</a>
 ## PROJECT PROCESS
-###Data Collection
+### Data Collection
 - Collected Nykaa product dataset with category, brand, price, discount, and sales details.
 ### Data Cleaning
 - Removed duplicates, fixed missing values, corrected data types, removed currency/percentage symbols, and standardized date format.
